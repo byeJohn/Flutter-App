@@ -1,16 +1,5 @@
-# appios
+# Flutter App - Simple Habit Tracker
 
-A new Flutter project.
+## [Code Here](https://github.com/byeJohn/Flutter-App/tree/master/lib)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tutorial Followed: https://youtu.be/2KN8U_sZ2qg
